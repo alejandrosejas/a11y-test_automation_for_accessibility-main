@@ -13,3 +13,7 @@ Run ` axe {url}`
 ## Run Axe on a browser
 
 Run `axe {url} --browser chrome`
+
+## Run Axe on multiple pages at once
+
+Run `axe {url},{url2} --browser chrome`
