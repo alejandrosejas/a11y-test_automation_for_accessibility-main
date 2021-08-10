@@ -20,4 +20,4 @@ Run `axe {url},{url2} --browser chrome`
 
 ## Save test-results in a JSON file
 
-Run `axe {url} --save test-results.json`
+Run `axe {url}z --save test-results.json`
